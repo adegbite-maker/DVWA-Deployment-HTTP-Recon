@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Fri, 10 Oct 2025 22:39:47 GMT
+Server: Apache/2.4.25 (Debian)
+Expires: Tue, 23 Jun 2009 12:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=ATTACKERSESSION12345; path=/
+Set-Cookie: security=low
+Vary: Accept-Encoding
+Content-Length: 1523
+Content-Type: text/html;charset=utf-8
+

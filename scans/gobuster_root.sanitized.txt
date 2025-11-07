@@ -1,0 +1,28 @@
+/.hta                [33m (Status: 403)[0m [Size: 296]
+/.hta.php            [33m (Status: 403)[0m [Size: 300]
+/.htaccess.php       [33m (Status: 403)[0m [Size: 305]
+/.htaccess.txt       [33m (Status: 403)[0m [Size: 305]
+/.htaccess           [33m (Status: 403)[0m [Size: 301]
+/.hta.txt            [33m (Status: 403)[0m [Size: 300]
+/.htaccess.html      [33m (Status: 403)[0m [Size: 306]
+/.hta.js             [33m (Status: 403)[0m [Size: 299]
+/.htaccess.js        [33m (Status: 403)[0m [Size: 304]
+/about.php           [32m (Status: 200)[0m [Size: 4840]
+/.hta.html           [33m (Status: 403)[0m [Size: 301]
+/config              [36m (Status: 301)[0m [Size: 326][34m [--> http://192.168.211.129:8080/config/][0m
+/docs                [36m (Status: 301)[0m [Size: 324][34m [--> http://192.168.211.129:8080/docs/][0m
+/external            [36m (Status: 301)[0m [Size: 328][34m [--> http://192.168.211.129:8080/external/][0m
+/favicon.ico         [32m (Status: 200)[0m [Size: 1406]
+/index.php           [36m (Status: 302)[0m [Size: 0][34m [--> login.php][0m
+/index.php           [36m (Status: 302)[0m [Size: 0][34m [--> login.php][0m
+/instructions.php    [32m (Status: 200)[0m [Size: 14014]
+/login.php           [32m (Status: 200)[0m [Size: 1523]
+/logout.php          [36m (Status: 302)[0m [Size: 0][34m [--> login.php][0m
+/php.ini             [32m (Status: 200)[0m [Size: 148]
+/phpinfo.php         [36m (Status: 302)[0m [Size: 0][34m [--> login.php][0m
+/phpinfo.php         [36m (Status: 302)[0m [Size: 0][34m [--> login.php][0m
+/robots.txt          [32m (Status: 200)[0m [Size: 26]
+/robots.txt          [32m (Status: 200)[0m [Size: 26]
+/security.php        [36m (Status: 302)[0m [Size: 0][34m [--> login.php][0m
+/server-status       [33m (Status: 403)[0m [Size: 305]
+/setup.php           [32m (Status: 200)[0m [Size: 4081]

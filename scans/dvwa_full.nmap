@@ -1,0 +1,12 @@
+# Nmap 7.95 scan initiated Wed Oct  1 06:22:59 2025 as: /usr/lib/nmap/nmap -Pn -n -p- -T4 -oA /labs/week1-dvwa/scans/dvwa_full 192.168.211.129
+Nmap scan report for 192.168.211.129
+Host is up (0.0012s latency).
+Not shown: 65531 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+3389/tcp open  ms-wbt-server
+8080/tcp open  http-proxy
+8081/tcp open  blackice-icecap
+MAC Address: 00:0C:29:19:3E:17 (VMware)
+
+# Nmap done at Wed Oct  1 06:23:09 2025 -- 1 IP address (1 host up) scanned in 9.91 seconds

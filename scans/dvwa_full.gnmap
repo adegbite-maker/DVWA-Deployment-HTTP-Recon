@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Wed Oct  1 06:22:59 2025 as: /usr/lib/nmap/nmap -Pn -n -p- -T4 -oA /labs/week1-dvwa/scans/dvwa_full 192.168.211.129
+Host: 192.168.211.129 ()	Status: Up
+Host: 192.168.211.129 ()	Ports: 22/open/tcp//ssh///, 3389/open/tcp//ms-wbt-server///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///	Ignored State: closed (65531)
+# Nmap done at Wed Oct  1 06:23:09 2025 -- 1 IP address (1 host up) scanned in 9.91 seconds
